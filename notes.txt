@@ -1,0 +1,6 @@
+What is a prompt? Composition of a formal prompt (Prompt Engineering Theory section)
+Prompts are composed of:
+    -Instructions: Which tasks need to be performed
+    -Context: Additional information to fine tune the instruction
+    -Input Data: the data the model will process
+    -Output Indicator: signals the model whether to answer now
